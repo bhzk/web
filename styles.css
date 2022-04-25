@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+}    
+.header {
+    margin-top: 0;
+    width: 100%;
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 150px;
+    padding: 0;
+
+}
+.header img {
+    display: flex;
+    margin-top: 15px;
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    float: left;
+    }
+    .info {
+        float: left;
+        color: white;
+        margin-top: 10px;
+        margin-left: 10px;
+        width: 60%;
+        padding: 0;
+
+    }
+.info p;
+{
+    color: black;
+}
+.info h1 {
+    font-size: 40px;
+    }
+    .footer {
+        width: 100%;
+        position: absolute;
+        text-align:center;
+        background-color: red;
+        font-family: sans-serif;
+        color: white;
+        bottom: 0;
+    }
+    .look {
+        margin-top: 20px;
+        margin-left: 50px;
+        width: 70%;
+        box-shadow: 0 1px 1em rgba(0,0,0,.2);
+    height: 500px ;
+    margin-bottom: 10px;
+    float: left;
+    }
+    .content-title {
+        border-bottom: 3px solid black;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .content h3 {
+        margin-left: 10px;
+        font-size: 30px;}
+    }
+    .content p {
+            margin-left: 10px;
+            float: left;
+    }
+        .content-text img {
+            margin-top: 10px;
+            margin-left: 10px;
+            margin-right: 10px;
+            width: 300px;
+            height: 300px;
+            float: left;
+            border: 2.5px solid black;
+        }
+        .quick{
+   width: 290px;
+   height: 270px;
+   margin-right: 10px;
+   background: linear-gradient(#e5ad27, #b27625);
+   background: -webkit-linear-gradient(#e5ad27,#b27625);
+   float:right
+
+        }
+        .quick p:nth-child(1) {
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: #ffffff;  
+        font-size: 25pt;
+        padding-left: 20px;
+        padding-top: 1px;
+
+        }
+        .quick label {
+            font-family:Arial, Helvetica, sans-serif;
+            color: #ffffff;  
+            font-size: 12pt;
+            display:block
+            padding-left: 20px;
+            padding-top: 20px;
+            }
+          /*start ads 125*/
+.ads-content-125{
+    margin-top: 250PX;
+    text-align: center;
+    padding: 20px  10px;
+}
+.ads-content-125 img{
+    margin-top: 70PX;
+    margin-bottom: 10px;
+    margin-left: 2px;
+}
+
+
+  .checkout-panel {
+   
+    
+    display:table;
+    flex-direction:row;
+    width: 940px;
+    height: 766px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .2);
+  }
+  .panel-body {
+    padding: 45px 80px 0;
+    flex: 1;
+  }
+   
+  .title {
+      font-weight: 700;
+    margin-top: -490PX;
+    margin-bottom: 4px;
+    color: #2e2e2e;
+  }
+
+    }
